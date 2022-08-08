@@ -1,0 +1,56 @@
+# 分应用性能模式配置
+# Per-app dynamic power mode rule
+# '-' means offscreen rule
+# '*' means default rule
+
+com.miHoYo.GenshinImpactcom.miHoYo.GenshinImpact fast
+- powersave
+* performance
+
+com.ea.gp.apexlegendsmobilefps fast
+- powersave
+* performance
+
+com.mobile.legends balance
+- powersave
+* balance
+
+com.instagram.android powersave
+- powersave
+* powersave
+
+org.telegram.messenger powersave
+- powersave
+* powersave
+
+com.instagram.android powersave
+- powersave
+* powersave
+
+com.miui.home powersave
+- powersave
+* powersave
+
+com.franco.kernel powersave
+- powersave
+* powersave
+
+com.google.android.youtube
+- powersave
+* powersave
+
+com.estrongs.android.pop powersave
+- powersave
+* powersave
+
+com.miui.securitycenter powersave
+- powersave
+* powersave
+
+com.whatsapp powersave
+- powersave
+* powersave
+
+com.chrome.dev
+- powersave
+* powersave
