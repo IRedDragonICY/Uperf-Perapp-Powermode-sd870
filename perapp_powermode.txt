@@ -51,6 +51,78 @@ com.whatsapp powersave
 - powersave
 * powersave
 
-com.chrome.dev
+com.chrome.dev powersave
+- powersave
+* powersave
+
+com.google.android.googlequicksearchbox powersave
+- powersave
+* powersave
+
+io.github.vvb2060.magisk powersave
+- powersave
+* powersave
+
+com.franco.kernel powersave
+- powersave
+* powersave
+
+com.supercell.clashofclans powersave
+- powersave
+* powersave
+
+com.android.vending powersave
+- powersave
+* powersave
+
+com.tokopedia.tkpd powersave
+- powersave
+* powersave
+
+com.google.android.apps.youtube.creator powersave
+- powersave
+* powersave
+
+com.twitter.android powersave
+- powersave
+* powersave
+
+jp.pxv.android powersave
+- powersave
+* powersave
+
+com.omarea.vtools powersave
+- powersave
+* powersave
+
+com.android.calendar powersave
+- powersave
+* powersave
+
+com.utorrent.client.pro powersave
+- powersave
+* powersave
+
+com.android.shell powersave
+- powersave
+* powersave
+
+com.miui.gallery powersave
+- powersave
+* powersave
+
+com.termux powersave
+- powersave
+* powersave
+
+com.android.cam balance
+- powersave
+* balance
+
+com.miui.screenrecorder powersave
+- powersave
+* Powersave
+
+com.android.settings powersave
 - powersave
 * powersave
