@@ -1,11 +1,10 @@
-# 分应用性能模式配置
 # Per-app dynamic power mode rule
 # '-' means offscreen rule
 # '*' means default rule
 
 com.miHoYo.GenshinImpactcom.miHoYo.GenshinImpact fast
 - powersave
-* performance
+* fast
 
 com.ea.gp.apexlegendsmobilefps fast
 - powersave
@@ -35,7 +34,7 @@ com.franco.kernel powersave
 - powersave
 * powersave
 
-com.google.android.youtube
+com.google.android.youtube powersave
 - powersave
 * powersave
 
@@ -91,7 +90,55 @@ jp.pxv.android powersave
 - powersave
 * powersave
 
-com.omarea.vtools powersave
+com.google.android.documentsui powersave
+- powersave
+* powersave
+
+com.omarea.vtools balance
+- powersave
+* balance
+
+cn.wq.myandroidtoolspro powersave
+- powersave
+* powersave
+
+com.lbe.security.miui powersave
+- powersave
+* powersave
+
+com.android.externalstorage powersave
+- powersave
+* powersave
+
+com.android.phone powersave
+- powersave
+* powersave
+
+com.qualcomm.location powersave
+- powersave
+* powersave
+
+com.android.providers.media.module powersave
+- powersave
+* powersave
+
+com.android.htmlviewer powersave
+- powersave
+* powersave
+
+com.android.systemui powersave
+- powersave
+* powersave
+
+com.google.android.configupdater powersave
+- powersave
+* powersave
+
+com.levelinfinite.hotta.gp fast
+- powersave
+* fast
+
+com.android.deskclock powersave
 - powersave
 * powersave
 
@@ -99,30 +146,18 @@ com.android.calendar powersave
 - powersave
 * powersave
 
-com.utorrent.client.pro powersave
+com.google.android.gm powersave
 - powersave
 * powersave
-
-com.android.shell powersave
-- powersave
-* powersave
-
-com.miui.gallery powersave
-- powersave
-* powersave
-
-com.termux powersave
-- powersave
-* powersave
-
-com.android.cam balance
-- powersave
-* balance
-
-com.miui.screenrecorder powersave
-- powersave
-* Powersave
 
 com.android.settings powersave
+- powersave
+* powersave
+
+com.vanced.manager.origin powersave
+- powersave
+* powersave
+
+com.qualcomm.qti.devicestatisticsservice powersave
 - powersave
 * powersave
