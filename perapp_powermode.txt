@@ -3,7 +3,7 @@
 # '*' means default rule
 
 com.miHoYo.GenshinImpactcom.miHoYo.GenshinImpact fast
-- powersave
+- fast
 * fast
 
 com.ea.gp.apexlegendsmobilefps fast
@@ -34,9 +34,9 @@ com.franco.kernel powersave
 - powersave
 * powersave
 
-com.google.android.youtube powersave
+com.google.android.youtube balance
 - powersave
-* powersave
+* balance
 
 com.estrongs.android.pop powersave
 - powersave
